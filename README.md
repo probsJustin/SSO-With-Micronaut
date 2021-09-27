@@ -5,6 +5,9 @@ This project is for demonstrating the understanding of OAuth2.0, okta, and its u
 
 This is based on the following documentation: https://guides.micronaut.io/latest/micronaut-oauth2-okta-maven-java.html
 
+## Support: 
+
+I will not provide support for this repo. 
 
 ## Setup: 
 
